@@ -1,0 +1,141 @@
+---
+title: "Materials"
+---
+
+```{=html}
+<br>
+<br>
+<table class="custom-materials-table">
+  <thead>
+    <tr>
+      <th>Unit</th>
+      <th>Topic</th>
+      <th>Lecture</th>
+      <th>Supplementary Materials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr id="logit-probit-glm" class="unit-start">
+      <td rowspan="3">Unit 1 – Models for Dichotomous Dependent Variables</td>
+      <td>Logit, Probit and the Generalized Linear Model</td>
+      <td><a href="/lecture_slides/01_logit_probit_glm/PS2730_2021_Course_Introduction.pdf" target="_blank">Lecture&nbsp;1</a>
+      <a href="/lecture_slides/01_logit_probit_glm/PS2730_2021_Logit_Probit_GLM.pdf" target="_blank">Lecture 2</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/01_logit_probit_glm/PS2730_2021_Logit_Probit_GLM.do" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/01_logit_probit_glm/ps2730.safrica.dta" target="_blank">Data</a></td>
+    <td></td>
+    </tr>
+    <tr id="ml-estimation-interpretation" class="lecture-row">
+      <td>Maximum Likelihood: Estimation and Interpretation</td>
+      <td><a href="/lecture_slides/02_ml_estimation_interpretation/PS2730_2021_Maximum_Likelihood_Estimation.pdf" target="_blank">Lecture 3</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/02_ml_estimation_interpretation/PS2730_2021_Maximum_Likelihood_Probit.do" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/02_ml_estimation_interpretation/PS2730.maxlike.probit.xy.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="logit-probit-issues" class="lecture-row">
+      <td>Issues in the Estimation and Interpretation of Logit and Probit Models</td>
+      <td><a href="/lecture_slides/03_logit_probit_issues/PS2730_2021_Logit_Probit_Issues.pdf" target="_blank">Lecture 4</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/03_logit_probit_issues/03_logit_probit_issues.zip" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/03_logit_probit_issues/ps2730.safrica.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="ordered-outcomes" class="unit-start">
+      <td rowspan="4">Unit 2 – Models for Ordered, Nominal, Count, and Censored Variables</td>
+      <td>Ordered Outcomes</td>
+      <td><a href="/lecture_slides/04_ordered_outcomes/PS2730_2021_Ordered_Logit_Probit.pdf" target="_blank">Lecture&nbsp;5</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/04_ordered_outcomes/PS2730_2021_Ordered_Probit_Logit.do" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/04_ordered_outcomes/ps2730.safrica.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="nominal-outcomes" class="lecture-row">
+      <td>Nominal Outcomes</td>
+      <td>
+        <a href="/lecture_slides/05_nominal_outcomes/PS2730_2021_Multinomial_Logit.pdf" target="_blank">Lecture&nbsp;6</a><br>
+        <a href="/lecture_slides/05_nominal_outcomes/PS2730_2021_Conditional_Logit.pdf" target="_blank">Lecture&nbsp;7</a><br>
+        <a href="/lecture_slides/05_nominal_outcomes/PS2730_2021_Multinomial_Probit.pdf" target="_blank">Lecture&nbsp;8</a>
+     </td>
+
+      <td>
+        <a href="/lecture_supplementary_materials/05_nominal_outcomes/05_nominal_outcomes.zip" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/05_nominal_outcomes/vote92a.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="count-outcomes" class="lecture-row">
+      <td>Count Outcomes</td>
+      <td><a href="/lecture_slides/06_count_outcomes/PS2730_2021_Poisson_Regression.pdf" target="_blank">Lecture&nbsp;9</a>
+      <a href="/lecture_slides/06_count_outcomes/PS2730_2021_Zero_Inflated_Count_Models.pdf" target="_blank">Lecture&nbsp;10</a>
+      </td>
+      <td>
+        <a href="/lecture_supplementary_materials/06_count_outcomes/06_count_outcomes.zip" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/06_count_outcomes/ps2730.safrica.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="censored-outcomes" class="lecture-row">
+      <td>Censored Outcomes</td>
+      <td><a href="/lecture_slides/07_censored_outcomes/PS2730_2021_Censored_Outcomes.pdf" target="_blank">Lecture&nbsp;11</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/07_censored_outcomes/PS2730_2021_Censored_Tobit_Regression.do" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/07_censored_outcomes/ps2730.safrica.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="panel-multilevel-dichotomous" class="unit-start">
+      <td rowspan="2">Unit 3 – Longitudinal and Multilevel Models</td>
+      <td>Panel and Multilevel Models for Dichotomous Outcomes</td>
+      <td><a href="/lecture_slides/08_panel_multilevel_dichotomous/PS2730_2021_Panel_Models_Dichotomous.pdf" target="_blank">Lecture&nbsp;12</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/08_panel_multilevel_dichotomous/PS2730_2021_Panel_Multilevel_Dichotomous.do" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/08_panel_multilevel_dichotomous/PS2730-2021.logit panel data.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="panel-multilevel-ordinal" class="lecture-row">
+      <td>Panel and Multilevel Models for Ordinal, Nominal and Count Outcomes</td>
+      <td><a href="/lecture_slides/09_panel_multilevel_ordinal/PS2730_2021_Panel_Models_Ordinal_Nominal_Count.pdf" target="_blank">Lecture&nbsp;13</a></td>
+      <td>
+        <a href="/lecture_supplementary_materials/09_panel_multilevel_ordinal/09_panel_multilevel_ordinal.zip" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/09_panel_multilevel_ordinal/PS2730-2021.Kenya-3wave.dta" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+    <tr id="endogeneity-sample-selection" class="unit-start">
+      <td rowspan="1">Unit 4 – Endogenous Regressor and Sample Selection Models</td>
+      <td>Sample Selection, Endogenous Regressors and Endogenous Treatment Effects</td>
+      <td><a href="/lecture_slides/10_endogeneity_sample_selection/PS2730_2021_Endogenous_Regressors_Selection.pdf" target="_blank">Lecture&nbsp;14</a>
+      <a href="/lecture_slides/10_endogeneity_sample_selection/PS2730_2021_Endogenous_Treatment_Effects.pdf" target="_blank">Lecture&nbsp;15</a>
+      </td>
+      <td>
+        <a href="/lecture_supplementary_materials/10_endogeneity_sample_selection/10_endogeneity_sample_selection.zip" target="_blank">Stata Script</a><br>
+        <a href="/lecture_supplementary_materials/10_endogeneity_sample_selection/10_endogeneity_sample_selection_data.zip" target="_blank">Data</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    const hash = window.location.hash;
+
+    if (hash) {
+      setTimeout(() => {
+        const target = document.querySelector(hash);
+
+        // Accept either lecture-row or unit-start targets
+        if (target && (target.classList.contains("lecture-row") || target.classList.contains("unit-start"))) {
+          target.classList.add("highlight");
+
+          if (target.classList.contains("unit-start")) {
+            target.classList.add("unit-highlight");
+          }
+
+          setTimeout(() => {
+            target.classList.remove("highlight");
+            target.classList.remove("unit-highlight");
+          }, 3000);
+
+          history.replaceState(null, null, window.location.pathname);
+        }
+      }, 100);
+    }
+  });
+</script>
+```
